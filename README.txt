@@ -19,13 +19,9 @@ This repository contains a Python script designed to ingest PDF files, analyze t
 ## Installation
 
 1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/bates-renaming-script.git
-   ```
+
 2. Navigate to the project directory:
-   ```bash
-   cd bates-renaming-script
-   ```
+  
 3. Install the required Python package:
    ```bash
    pip install PyPDF2
